@@ -1,4 +1,7 @@
-# api documentation for  [i18n-iso-countries (v1.11.0)](https://github.com/michaelwittig/node-i18n-iso-countries#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-i18n-iso-countries.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-i18n-iso-countries) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-i18n-iso-countries.svg)](https://travis-ci.org/npmdoc/node-npmdoc-i18n-iso-countries)
+# npmdoc-i18n-iso-countries
+
+#### basic api documentation for  [i18n-iso-countries (v1.11.0)](https://github.com/michaelwittig/node-i18n-iso-countries#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-i18n-iso-countries.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-i18n-iso-countries) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-i18n-iso-countries.svg)](https://travis-ci.org/npmdoc/node-npmdoc-i18n-iso-countries)
+
 #### i18n for ISO 3166-1 country codes
 
 [![NPM](https://nodei.co/npm/i18n-iso-countries.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/i18n-iso-countries)
@@ -105,7 +108,8 @@
         "test": "make test"
     },
     "typings": "index.d.js",
-    "version": "1.11.0"
+    "version": "1.11.0",
+    "bin": {}
 }
 ```
 
